@@ -45,7 +45,7 @@
 
         if (frontend.AskForPlayAgain())
         {
-            backend.ResetGame(); // Zresetuj grę przed rozpoczęciem nowej rundy
+          //  backend.ResetGame(); // Zresetuj grę przed rozpoczęciem nowej rundy
             StartGame();
         }
     }
